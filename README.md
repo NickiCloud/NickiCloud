@@ -71,3 +71,5 @@
 <p align="center">
   <a href="https://github.com/nickicloud"><img src="generated-stats/trophy.svg" alt="nickicloud's GitHub Profile Trophy"/></a>
 </p>-->
+![GitHub account age](https://img.shields.io/badge/GitHub%20seit-2022-blue)
+
