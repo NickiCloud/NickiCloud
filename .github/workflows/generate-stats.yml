@@ -228,8 +228,8 @@ jobs:
       - name: Commit and push changes
         if: steps.git-check.outputs.changes == 'true'
         run: |
-          git config user.name NickiCloud
-          git config user.email 41683699+NickiCloud@users.noreply.github.com
+          git config user.name Taiizor
+          git config user.email 41683699+Taiizor@users.noreply.github.com
           git commit -m "📊 Update GitHub stats cards"
           git pull --rebase origin ${{ github.ref_name }}
           git push origin ${{ github.ref_name }}
