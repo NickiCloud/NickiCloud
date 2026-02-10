@@ -19,7 +19,7 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="C#" width="36px" src=".images/C#.png" />
+    <img align="center" alt="C#" width="36px" src=".images/Csharp.png" />
     <img align="center" alt="Blazor" width="36px" src=".images/Blazor.png" />
     <img align="center" alt=".NET Aspire" width="32px" src=".images/Aspire.png" />
     <img align="center" alt="MAUI" width="32px" src=".images/MAUI2.png" />
